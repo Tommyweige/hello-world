@@ -1,2 +1,2 @@
 # hello-world
-fake repository
+new repository
